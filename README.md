@@ -16,7 +16,7 @@ Este projeto foi desenvolvido por mim, com o conhecimento adquirido em um curso 
 [Formação Front-end - HTML, CSS, JavaScript, React e +]([www.linkedin.com/in/fernandatozzihonorio](https://www.udemy.com/course/formacao-front-end-html-css-javascript-react-e/learn/lecture/38696054#overview)) 
 
 ## Contato
-- [LinkedIn](www.linkedin.com/in/fernandatozzihonorio/)
+- [LinkedIn](https://www.linkedin.com/in/fernandatozzihonorio/)
 - [E-mail](mailto:fernandatozzihonorio@gmail.com)
 
 ---

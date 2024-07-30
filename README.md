@@ -13,7 +13,7 @@ A página de login inclui:
 - 🎨 Imagens e estilos que imitam o design do Instagram.
 
 Este projeto foi desenvolvido por mim, com o conhecimento adquirido em um curso na Udemy <br>
-[Formação Front-end - HTML, CSS, JavaScript, React e +]([www.linkedin.com/in/fernandatozzihonorio](https://www.udemy.com/course/formacao-front-end-html-css-javascript-react-e/learn/lecture/38696054#overview)) 
+[Formação Front-end - HTML, CSS, JavaScript, React e +](https://www.udemy.com/course/formacao-front-end-html-css-javascript-react-e/?couponCode=LETSLEARNNOWPP) 
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/fernandatozzihonorio/)
